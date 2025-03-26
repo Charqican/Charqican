@@ -10,10 +10,11 @@ Soy estudiante de último año de ingeniería civil en computación en la Univer
 - **Pasatiempos** : Me gusta tocar instrumentos, juntarme con amigos. programar y últimamente el bouldering 🪨
 - **Música** : Me gusta Radiohead 📻.
 
-<img src="images\21.gif" width="25" height="50" />
-<img src="images\10.gif" width="25" height="50" />
-<img src="images\21.gif" width="25" height="50" />
-
+<p>
+<img src="images\21.gif" width="25" height="50" style="display: inline-block; margin-right: 10px;"/>
+<img src="images\10.gif" width="25" height="50" style="display: inline-block; margin-right: 10px;" />
+<img src="images\21.gif" width="25" height="50" style="display: inline-block;"/>
+<p>
 
 ## Aspiraciones
 
